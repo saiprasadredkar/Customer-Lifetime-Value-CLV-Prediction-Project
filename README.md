@@ -1,7 +1,8 @@
+#Customer Lifetime Value (CLV) Prediction Project
 Understanding customer value is crucial for businesses looking to maximize revenue and long-term growth. In this project, I built a predictive model for Customer Lifetime Value (CLV) to help companies identify their most valuable customers and optimize marketing strategies!
-💡 About the Project
- The goal was to analyze customer purchasing behavior and predict their future value, allowing businesses to focus on high-value customers and improve retention efforts.
-🔑 Key Steps in the Project:
+About the Project -
+    The goal was to analyze customer purchasing behavior and predict their future value, allowing businesses to focus on high-value customers and improve retention efforts.
+Key Steps in the Project:
  1️⃣ Data Cleaning & Preprocessing – Handled missing values, converted categorical data, and ensured data consistency.
  2️⃣ Exploratory Data Analysis (EDA) – Analyzed trends like purchase frequency, average transaction value, and customer segmentation.
  3️⃣ Feature Engineering – Created meaningful features such as Recency, Frequency, and Monetary (RFM) scores to enhance prediction accuracy.
